@@ -1,0 +1,6 @@
+.positioned-image {
+  position: absolute; /* Sets the image position relative to its containing element */
+  top: 15px; /* Adjust as needed */
+  left: 60px; /* Adjust as needed */
+}
+
