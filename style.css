@@ -1,9 +1,16 @@
-.Developer-image {
-    position: absolute;
-    top: 20%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-  }
 .box2d {
     color: red;
 }
+#footer {
+    color: blue;
+}
+.Developer-image {
+  width: 230px; 
+  height: 229px; 
+  border-radius: 50%;
+  object-fit: cover; 
+  position: absolute;
+  top: 20%;
+  left: 50%;
+  transform: translate(-50%, -50%)
+  }
