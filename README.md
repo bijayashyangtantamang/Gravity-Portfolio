@@ -6,7 +6,7 @@ This is an open-source portfolio template created by [Bijaya Tamang](https://bij
 
 ## Features
 
-- Stylish floating elements layout
+- Stylish floating elements like gravity
 - Easy customization
 - Showcase projects and personal details
 - Smooth animations
@@ -23,7 +23,7 @@ To deploy this portfolio template on Netlify, simply click the "Deploy to Netlif
 
 ## License
 
-This portfolio template is open-source and available under the [MIT License](LICENSE).
+This portfolio template is open-source and availabe free on github.
 
 Feel free to customize and use it for your own portfolio!
 
