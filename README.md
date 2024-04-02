@@ -2,7 +2,8 @@
 
 ![Portfolio Preview](https://bijaytamang.netlify.app/assets/img/preview.jpg)
 
-This is an open-source portfolio template created by Bijaya Tamang(https://bijaytamang.netlify.app/), designed to showcase personal details and projects in a stylish floating elements layout. It's built using HTML, CSS, and JavaScript.
+This is an open-source portfolio template created by  [Bijaya Tamang]
+(https://bijaytamang.netlify.app/), designed to showcase personal details and projects in a stylish floating elements layout. It's built using HTML, CSS, and JavaScript.
 
 ## Features
 
