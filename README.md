@@ -2,7 +2,7 @@
 
 ![Portfolio Preview](https://bijaytamang.netlify.app/assets/img/preview.jpg)
 
-This is an open-source portfolio template created by [Bijaya Tamang](https://bijaytamang.netlify.app/), designed to showcase personal details and projects in a stylish floating elements layout. It's built using HTML, CSS, and JavaScript.
+This is an open-source portfolio template created by Bijaya Tamang(https://bijaytamang.netlify.app/), designed to showcase personal details and projects in a stylish floating elements layout. It's built using HTML, CSS, and JavaScript.
 
 ## Features
 
@@ -23,7 +23,7 @@ To deploy this portfolio template on Netlify, simply click the "Deploy to Netlif
 
 ## License
 
-This portfolio template is open-source and available under the [MIT License](LICENSE).
+This portfolio template is open-source and available free on Github.
 
 Feel free to customize and use it for your own portfolio!
 
