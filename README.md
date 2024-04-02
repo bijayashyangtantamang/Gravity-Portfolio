@@ -1,37 +1,29 @@
 # Bijaya Tamang's Portfolio Template
 
-[![Preview](preview.png)](https://bijaytamang.netlify.app/)
+![Portfolio Preview](https://bijaytamang.netlify.app/assets/img/preview.jpg)
 
-This is an open-source portfolio template created by [Bijaya Tamang](https://github.com/bijaytamang). It's designed to showcase your projects, skills, and experience in an elegant and professional manner.
+This is an open-source portfolio template created by [Bijaya Tamang](https://bijaytamang.netlify.app/), designed to showcase personal details and projects in a stylish floating elements layout. It's built using HTML, CSS, and JavaScript.
 
 ## Features
 
-- Responsive design for various screen sizes
-- Easy customization with HTML, CSS, and JavaScript
-- Sections for projects, skills, about me, and contact information
-- Clean and modern design
+- Stylish floating elements layout
+- Easy customization
+- Showcase projects and personal details
+- Smooth animations
 
 ## Preview
 
-![Portfolio Preview](preview.png)
+Click [here](https://bijaytamang.netlify.app/) to view the live demo.
 
-## Deploy on Netlify
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bijaytamang/bijaytamang.github.io)
 
-You can deploy this portfolio template on Netlify with just one click. Click the button below to get started:
+## Deployment
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bijaytamang/portfolio-template)
-
-## Usage
-
-1. Clone this repository.
-2. Customize the content and styling according to your preferences.
-3. Deploy the site to your preferred hosting platform.
-
-## Credits
-
-- Original template created by [Bijaya Tamang](https://github.com/bijaytamang)
-- Forked from [GitHub Repository](https://github.com/bijaytamang/portfolio-template)
+To deploy this portfolio template on Netlify, simply click the "Deploy to Netlify" button above. It will guide you through the deployment process, making it quick and easy to get your portfolio online.
 
 ## License
 
-This project is open-source and available under the [MIT License](LICENSE).
+This portfolio template is open-source and available under the [MIT License](LICENSE).
+
+Feel free to customize and use it for your own portfolio!
+
