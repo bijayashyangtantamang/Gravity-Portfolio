@@ -27,3 +27,7 @@ This portfolio template is open-source and availabe free on github.
 
 Feel free to customize and use it for your own portfolio!
 
+
+[Watch the video](https://youtu.be/Rqs0Gk42E5g?si=ijdvqfO5VdNSSDG0)
+
+
